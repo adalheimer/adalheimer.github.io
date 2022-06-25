@@ -238,7 +238,7 @@ blockquote {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
     a {
       i::before {
         color: var(--global-text-color);
@@ -265,6 +265,7 @@ footer.fixed-bottom {
     color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
+    text-align: center;
   }
   a {
     color: var(--global-footer-link-color);
@@ -581,4 +582,30 @@ html.transition *:after {
       padding: 8px;
     }
   }
+}
+
+
+
+
+
+
+
+// ---------------------------------------------------------------------------------------
+
+/* Flexbox classes for images in rows and columns */
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 25%;
+  padding: 25px;
+  text-align: center;
+  
+}
+
+/* Define text below image */
+.img-with-text {
+  text-align: justify;
+  width: [width of img];
 }
