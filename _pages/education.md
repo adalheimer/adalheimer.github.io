@@ -189,7 +189,6 @@ ___
 <div class="image-gallery">
   <img alt="R logo" src="/images/Rlogo.png" data-dark="/images/Rlogo.png" data-light="/images/Rlogo.png" class="gallery-image">
 
-
   <img alt="Python logo" src="/images/python_logo.png" data-dark="/images/python_logo.png" data-light="/images/python_logo.png" class="gallery-image">
 
   <img alt="LaTex logo" src="/images/latex_logo2.png" data-dark="/images/latex_logo2.png" data-light="/images/latex_logo2.png" class="gallery-image">
@@ -210,33 +209,33 @@ ___
   justify-content: center; /* Center the images horizontally */
   gap: 20px; /* Adjust the gap as needed */
 }
+
 .gallery-image {
-  max-width: 10%; /* Set the maximum width for images */
+  width: calc(10% - 20px); /* Set width for images, subtracting gap to maintain spacing */
   height: auto; /* Maintain the aspect ratio */
   object-fit: contain; /* Ensure the image fits within its container while maintaining aspect ratio */
   margin-bottom: 20px; /* Add space below each image */
 }
 
-
 .gallery-image:nth-child(6),
 .gallery-image:nth-child(7) {
-  max-width: 20%; /* Set the maximum width for larger images */
+  width: calc(20% - 20px); /* Set width for larger images, subtracting gap to maintain spacing */
 }
 
 @media (max-width: 768px) {
   .gallery-image {
-    max-width: 45%; /* Adjust for smaller screens */
+    width: calc(45% - 20px); /* Adjust for smaller screens, subtracting gap to maintain spacing */
   }
 
   .gallery-image:nth-child(6),
   .gallery-image:nth-child(7) {
-    max-width: 90%; /* Stack larger images on smaller screens */
+    width: calc(90% - 20px); /* Stack larger images on smaller screens, subtracting gap to maintain spacing */
   }
 }
 
 @media (max-width: 480px) {
   .gallery-image {
-    max-width: 100%; /* Stack images on very small screens */
+    width: calc(100% - 20px); /* Stack images on very small screens, subtracting gap to maintain spacing */
   }
 }
 </style>
@@ -412,19 +411,11 @@ with R</p>
   gap: 20px; /* Adjust the gap as needed */
 }
 
-.image-certificate .column {
-  display: flex;
-  flex-direction: column;
-  align-items: center; /* Center the content within each column */
-  text-align: center; /* Center text under the images */
-  flex: 1 1 200px; /* Ensure columns are flexible and have a minimum width */
-}
-
 .image-certificate .link-gallery-image {
-  max-width: 45%; /* Ensure the image doesn't exceed its container's width */
+  width: 80px; /* Set a moderate fixed width */
   height: auto; /* Maintain aspect ratio */
   object-fit: contain; /* Ensure the image fits within its container while maintaining aspect ratio */
-  margin-bottom: 10px; /* Adjust space below each image */
+  margin-bottom: 20px; /* Add space below each image */
 }
 
 @media (max-width: 768px) {
