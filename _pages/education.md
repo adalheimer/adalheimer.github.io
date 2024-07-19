@@ -327,7 +327,7 @@ ___
         <p style="margin-top:10px;">Lviv Data Science Summmer School</p>
       </a>
     </div>
-    
+
     <!-- Automated image and video analysis -->
     <div class="column">
   <a href="/images/Certificate_image_analysis.pdf">
@@ -412,11 +412,19 @@ with R</p>
   gap: 20px; /* Adjust the gap as needed */
 }
 
+.image-certificate .column {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center the content within each column */
+  text-align: center; /* Center text under the images */
+  flex: 1 1 200px; /* Ensure columns are flexible and have a minimum width */
+}
+
 .image-certificate .link-gallery-image {
-  width: 80px; /* Set a moderate fixed width */
+  max-width: 45%; /* Ensure the image doesn't exceed its container's width */
   height: auto; /* Maintain aspect ratio */
   object-fit: contain; /* Ensure the image fits within its container while maintaining aspect ratio */
-  margin-bottom: 20px; /* Add space below each image */
+  margin-bottom: 10px; /* Adjust space below each image */
 }
 
 @media (max-width: 768px) {
@@ -457,6 +465,5 @@ ___
 <p align="center">
   <img alt="Light" src="/images/Wordcloud3_removed_background.png" width="70%">
 </p>
-
 
 
