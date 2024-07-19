@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /projects/
-title: PROJECTS
+permalink: /publication/
+title: PUBLICATIONS
 description: 
-years: [2022, 2020, 2019]
+years: [2024]
 nav: true
 nav_order: 2
 ---

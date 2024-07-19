@@ -2,29 +2,30 @@
 layout: about
 title: ABOUT
 permalink: /
-subtitle: Research Assistant at the <a href='https://cccp.uni-koeln.de/de/'>Cologne Center of Comparative Politics</a>; Master Student of Political Science at the University of Cologne.
+subtitle: PhD student in the <a href='https://erc-partisan.github.io'>ERC-PARTISAN</a> project at the <a href='https://staatswissenschaft.univie.ac.at/en/'>Department of Government</a>, <a href='https://www.univie.ac.at/en'>University of Vienna</a>
 
 profile:
   align: right
   image: about.jpg
   address: >
     <p><b>Impressum:</b></p>
-    <p>Subbelrather Straße</p>
-    <p>50825 Köln</p>
+    <p>Kolingasse 14-16 </p>
+    <p>1090 Wien</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 <br/>
 
-Welcome on my website!
+Welcome to my website!
 
-I am <b>Alexander Dalheimer</b> and I am currently finishing my Master's in Political Science at the University of Cologne. Before I moved to Cologne, I studied Politics & Public Administration at the University of Konstanz and Charles University, Prague.
+I am <b>Alexander Dalheimer</b>, a PhD student in the ERC-funded <a href='https://erc-partisan.github.io'>PARTISAN</a> project, led by <a href='https://www.wagnermarkus.net'>Markus Wagner</a>. I hold a Bachelor's degree in Politics and Administration from the <a href='https://www.polver.uni-konstanz.de/en/'>University of Konstanz</a> and a Master's degree in Political Science from the <a href='https://politik.uni-koeln.de/en/'>University of Cologne</a>.
 
-My research interests focus on democratic representation, political & legislative behavior, party competition and political communication of parties and members of parliament (MPs). Especially, I am interested in how democratic insitutions shape the behavior of voters, legislators, political parties or other social groups. 
+My dissertation investigates the causes of partisan conflict and affective polarization. I explore both micro and macro-level explanations for the increasing animosity between supporters of different parties in many liberal democracies. Specifically, I examine the roles of partisan (meta)perceptions, identity and policy disagreements, the impact of radical right parties, and local party competition. My research has a strong comparative aspect, utilizing data not only from the US but also from Canada and several European countries.
 
-My research is characterized by advanced and innovative quantitative research designs. A wide variety of methods from (non-)linear regression, hierarchical and time-series models to machine learning and text-as-data approaches were used in multiple [projects](https://adalheimer.github.io/projects/). I am very interested in developing new methods and measurements and refining existing methodological approaches. Currently, I am further developing the approach of Peterson & Spierling (2018) to measure the degree of polarization based on parliamentary debates. 
+Additionally, I am passionate about quantitative and computational methods. The <a href='https://erc-partisan.github.io'>PARTISAN</a> project allows me to combine original cross-sectional data from 13 countries with survey experiments. Furthermore, my research employs quasi-experimental designs and computational text-as-data methods.
 
-On this website, you find information about my [education](https://adalheimer.github.io/education/), [experiences & skills](https://adalheimer.github.io/experience/)) as well as about [projects](https://adalheimer.github.io/projects/), I realized during my studies. 
+<!-- Empty line -->
+<br/>
