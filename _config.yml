@@ -57,9 +57,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: adalheimer # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: a_dalheimer # your Twitter handle
-linkedin_username: alexander-dalheimer-76b15516a/ # your LinkedIn user name
+linkedin_username: alexander-dalheimer-76b15516a # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-7698-4910 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -138,7 +138,9 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages']
+include:
+  - _pages
+  - hidden_pdfs
 exclude:
   - bin
   - Gemfile
@@ -201,8 +203,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Dalheimer 
+  first_name: [Alexander]
 
   style: apa
   locale: en
