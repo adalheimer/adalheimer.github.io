@@ -22,14 +22,6 @@ baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
-
-# -----------------------------------------------------------------------------
-# Github Meta-Data
-# -----------------------------------------------------------------------------
-
-repository: adalheimer/adalheimer.github.io
-
-
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
@@ -65,9 +57,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: adalheimer # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: a_dalheimer # your Twitter handle
-linkedin_username: alexander-dalheimer-76b15516a # your LinkedIn user name
+linkedin_username: alexander-dalheimer-76b15516a/ # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
-orcid_id: 0000-0002-7698-4910 # your ORCID ID
+orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -146,8 +138,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include:
-  - _pages
+include: ['_pages']
 exclude:
   - bin
   - Gemfile
@@ -210,8 +201,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Dalheimer 
-  first_name: [Alexander]
+  last_name: Einstein
+  first_name: [Albert, A.]
 
   style: apa
   locale: en
