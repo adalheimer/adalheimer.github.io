@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Fix for uri version conflict
-gem 'uri', '1.0.3'
+#gem 'uri', '1.0.3'
 
 # Specifies that your Jekyll site should use the github-pages gem
 gem 'github-pages', group: :jekyll_plugins
