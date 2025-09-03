@@ -2,12 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Taught courses.
+description: 
 nav: true
 nav_order: 6
 ---
 
 
-# Methods courses
+### Methods courses
 
-<a href='https://ufind.univie.ac.at/en/course.html?lv=210020&semester=2024W'>Quantitative Methods</a>, BA Seminar, University of Vienna
+<a href='https://ufind.univie.ac.at/en/course.html?lv=210020&semester=2024W'>Quantitative Methods</a>, BA Seminar (W24/25), University of Vienna
