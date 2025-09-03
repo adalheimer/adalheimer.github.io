@@ -2,11 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Taught courses.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+# Methods courses
+
+<a href='https://ufind.univie.ac.at/en/course.html?lv=210020&semester=2024W'>Quantitative Methods</a>, BA Seminar, University of Vienna
