@@ -32,59 +32,39 @@
       "highlights": ["Affective polarization", "Political Behavior", "Quantitative and computational methods"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Youth organization of the German Green Party",
-      "location": "Konstanz, Germany",
-      "position": "Board member",
-      "url": "",
-      "startDate": "2016",
-      "endDate": "2017",
-      "summary": "",
-      "highlights": [""]
-    },
-    {
-      "organization": "Volunteer fire brigade",
-      "location": "Rietheim-Weilheim, Germany",
-      "position": "",
-      "url": "",
-      "startDate": "2009",
-      "endDate": "",
-      "summary": "",
-      "highlights": [""]
-    }
-  ],
   "education": [
     {
-      "institution": "Department of Politics and Public Administration, University of Konstanz",
-      "location": "Konstanz, Germany",
-      "url": "https://www.polver.uni-konstanz.de/en/",
-      "area": "Politic and Public Administration",
-      "studyType": "BA",
-      "startDate": "2015-10-01",
-      "endDate": "2019-09-31",
+      "institution": "Department of Government, University of Vienna",
+      "location": "Vienna, Austria",
+      "url": "https://staatsrecht.univie.ac.at/en/",
+      "area": "Political Science",
+      "studyType": "PhD Candidate",
+      "startDate": "2022-10-01",
+      "endDate": "today",
       "score": "",
-      "courses": []
+      "courses": ["Digital Technology and Politics", "Image Analysis", "Analysis of Geo Data", "Illiberalism and Party System Change", "Experimental Analysis", "Experimental Designs"]
+    },
+    {
+      "institution": "Department of Political Science, University of Cologne",
+      "location": "Cologne, Germany",
+      "url": "https://politics.uni-koeln.de/en/",
+      "area": "Political Science",
+      "studyType": "Master of Arts",
+      "startDate": "2019-10-01",
+      "endDate": "2022-09-31",
+      "score": "",
+      "courses": ["Quantitative text analysis", "causal inference", "time-series analysis", "multivariate statistics", "econometrics", "process tracing"]
     },
     {
       "institution": "Department of Politics and Public Administration, University of Konstanz",
       "location": "Konstanz, Germany",
       "url": "https://www.polver.uni-konstanz.de/en/",
       "area": "Politic and Public Administration",
-      "studyType": "BA",
+      "studyType": "Bachelor of Arts",
       "startDate": "2015-10-01",
       "endDate": "2019-09-31",
       "score": "",
       "courses": []
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [
@@ -215,6 +195,28 @@
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Youth organization of the German Green Party",
+      "location": "Konstanz, Germany",
+      "position": "Board member",
+      "url": "",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Volunteer fire brigade",
+      "location": "Rietheim-Weilheim, Germany",
+      "position": "",
+      "url": "",
+      "startDate": "2009",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
     }
   ]
 }
