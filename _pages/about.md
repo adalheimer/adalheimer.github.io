@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student. ERC-PARTISAN. University of Vienna.
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>Department of Government</p>
     <p>Vienna, Austria</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
