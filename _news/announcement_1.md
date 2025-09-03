@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Workshop
+title: Stanford-Vienna Workshop at Stanford University
 date: 2025-08-07 16:11:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
