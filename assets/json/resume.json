@@ -36,7 +36,7 @@
       "position": "Research Assistant",
       "url": "https://cccp.uni-koeln.de/de/the-center",
       "startDate": "2020-09-01",
-      "endDate": "2022-09-30",
+      "endDate": "2022-09-29",
       "summary": "Development of web scrapers in R for parliamentary speech and bill archives; processing and structuring of textual data and associated metadata; Compilment of original corpora and custom datasets; assisted in enhancing digital learning and training resources for data analysis with R",
       "highlights": ["Computational Social Science", "Data Science", "Data Management"]
     },
@@ -120,41 +120,76 @@
       "date": "2021-07",
       "issuer": "Ukrainian Catholic University ",
       "url": "/assets/certificates/certificate_lviv.pdf",
-      "icon": "lviv_summerschool.png"
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Automated Image and Video Analysis",
-      "date": "2021-04-29",
+      "date": "2021-04",
       "issuer": "University of Vienna",
       "url": "/assets/certificates/Certificate_image_analysis.pdf",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "An Introduction to GIS with R",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "date": "2023-06",
+      "issuer": "University of Vienna",
+      "url": "/assets/certificates/Certificate_GIS.pdf",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Automated Content Analysis",
+      "date": "2023-07",
+      "issuer": "University of Vienna",
+      "url": "/assets/certificates/Certificate_content_analysis.pdf",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Intermediate Python",
+      "date": "2021-10",
+      "issuer": "sololearn",
+      "url": "/assets/certificates/SoloLearn_intermediate_Python.jpg",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Python for Data Science",
+      "date": "2021-10",
+      "issuer": "sololearn",
+      "url": "/assets/certificates/SoloLearn_Data_Science_Python.JPG",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Python for Beginners Course",
+      "date": "2021-09",
+      "issuer": "sololearn",
+      "url": "/assets/certificates/SoloLearn_Beginner_Python.JPG",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Intro to Machine Learning",
+      "date": "2021-06",
+      "issuer": "Kaggle",
+      "url": "/assets/certificates/Kaggle_Intro_to_Machine_Learning.png",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Python",
+      "date": "2021-06",
+      "issuer": "Kaggle",
+      "url": "/assets/certificates/Kaggle_Python.png",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Python for Statistical Analysis",
+      "date": "2020-03",
+      "issuer": "LinkedIn",
+      "url": "/assets/certificates/Certificate_Python_Statistical_Evaluation.pdf",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Python for Data Analysis",
+      "date": "2020-03",
+      "issuer": "LinkedIn",
+      "url": "/assets/certificates/Certificate_Python_for_Data_Analysis.pdf",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
@@ -200,6 +235,16 @@
   ],
   "volunteer": [
     {
+      "organization": "German Green Party (Bündnis90/Die Grünen)",
+      "location": "Germany",
+      "position": "Member",
+      "url": "",
+      "startDate": "2016",
+      "endDate": "today",
+      "summary": "",
+      "highlights": []
+    },
+    {
       "organization": "Youth organization of the German Green Party",
       "location": "Konstanz, Germany",
       "position": "Board member",
@@ -212,7 +257,7 @@
     {
       "organization": "Volunteer fire brigade",
       "location": "Rietheim-Weilheim, Germany",
-      "position": "",
+      "position": "Volunteer firefighter",
       "url": "",
       "startDate": "2009",
       "endDate": "",
