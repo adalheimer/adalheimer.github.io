@@ -90,7 +90,7 @@ ninja.data = [{
         title: 'Open Science Framework',
         section: 'Socials',
         handler: () => {
-          window.open("https://osf.io/osf.io/tbefq/", "_blank");
+          window.open("https://osf.io/tbefq/", "_blank");
         },
       },{
       id: 'light-theme',
