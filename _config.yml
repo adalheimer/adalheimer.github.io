@@ -96,15 +96,15 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  books:
-    output: false
-  news:
-    defaults:
-      layout: post
-    output: false
-  projects:
-    output: false
+#collections:
+#  books:
+#    output: false
+#  news:
+#    defaults:
+#      layout: post
+#    output: false
+#  projects:
+#    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -199,12 +199,12 @@ terser:
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
-jekyll-archives:
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+#jekyll-archives:
+#  books:
+#    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+#display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+#display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
