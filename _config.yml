@@ -96,13 +96,13 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-#collections:
+collections:
 #  books:
 #    output: false
-#  news:
-#    defaults:
-#      layout: post
-#    output: false
+  news:
+    defaults:
+      layout: post
+    output: true
 #  projects:
 #    output: false
 
