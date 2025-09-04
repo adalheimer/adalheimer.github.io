@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student. ERC-PARTISAN. University of Vienna.
+subtitle: 
 
 profile:
   align: right
