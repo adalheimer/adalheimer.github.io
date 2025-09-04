@@ -30,22 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-stanford-vienna-workshop-at-stanford-university",
-          title: 'Stanford-Vienna Workshop at Stanford University',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1.html";
-            },},{id: "news-apsa-2025",
-          title: 'APSA 2025',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-research-stay-at-the-university-of-pennsylvania",
-          title: 'Research Stay at the University of Pennsylvania',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3.html";
-            },},{
+        },{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
