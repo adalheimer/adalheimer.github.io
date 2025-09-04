@@ -31,13 +31,6 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("alexanderdalheimer.bsky.social", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -45,18 +38,32 @@ ninja.data = [{
           window.open("mailto:%61%6C%65%78%61%6E%64%65%72.%64%61%6C%68%65%69%6D%65%72@%75%6E%69%76%69%65.%61%63.%61%74", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/adalheimer", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/alexander-dalheimer-76b15516a", "_blank");
+        },
+      },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/alexanderdalheimer.bsky.social", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/a_dalheimer", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/adalheimer", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -71,13 +78,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://osf.io/tbefq/", "_blank");
-        },
-      },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/a_dalheimer", "_blank");
         },
       },{
       id: 'light-theme',
