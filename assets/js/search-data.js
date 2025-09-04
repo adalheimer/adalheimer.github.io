@@ -30,12 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-stanford-vienna-workshop-at-stanford-university",
+        },{id: "news-stanford-vienna-workshop-at-stanford-university",
           title: 'Stanford-Vienna Workshop at Stanford University',
           description: "",
           section: "News",handler: () => {
@@ -51,6 +46,13 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3.html";
             },},{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("alexanderdalheimer.bsky.social", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -84,6 +86,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://osf.io/tbefq/", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/a_dalheimer", "_blank");
         },
       },{
       id: 'light-theme',
