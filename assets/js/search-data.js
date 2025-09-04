@@ -76,7 +76,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/alexander-dalheimer", "_blank");
+          window.open("https://www.linkedin.com/in/alexander-dalheimer-76b15516a", "_blank");
         },
       },{
         id: 'social-orcid',
