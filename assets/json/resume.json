@@ -35,8 +35,8 @@
       "name": "Center for Comparative Politics, University of Cologne",
       "position": "Research Assistant",
       "url": "https://cccp.uni-koeln.de/de/the-center",
-      "startDate": "2020-02-01",
-      "endDate": "2020-05-30",
+      "startDate": "2020-09-01",
+      "endDate": "2022-09-30",
       "summary": "Development of web scrapers in R for parliamentary speech and bill archives; processing and structuring of textual data and associated metadata; Compilment of original corpora and custom datasets; assisted in enhancing digital learning and training resources for data analysis with R",
       "highlights": ["Computational Social Science", "Data Science", "Data Management"]
     },
@@ -44,8 +44,8 @@
       "name": "CM4all",
       "position": "Student Assistant in the Department of Key Account Management",
       "url": "https://www.cm4all.com/start",
-      "startDate": "2020-09-01",
-      "endDate": "2022-09-30",
+      "startDate": "2020-02-01",
+      "endDate": "2020-05-30",
       "summary": "Conduction of competitor analyses; programming and testing of WordPress websites; Performoming functionality testing of PHP- and Java-based applications",
       "highlights": ["Competitor analysis", "Software Testing", "Website Programming"]
     },
@@ -117,20 +117,20 @@
   "certificates": [
     {
       "name": "Lviv Data Science Summer School",
-      "date": "2021-07-19",
+      "date": "2021-07",
       "issuer": "Ukrainian Catholic University ",
-      "url": "assets/certificates/certificate_lviv.pdf",
+      "url": "/assets/certificates/certificate_lviv.pdf",
       "icon": "lviv_summerschool.png"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2021-07-19",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Automated Image and Video Analysis",
+      "date": "2021-04-29",
+      "issuer": "University of Vienna",
+      "url": "/assets/certificates/Certificate_image_analysis.pdf",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
+      "name": "An Introduction to GIS with R",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
@@ -187,15 +187,14 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Academic Interests",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Political Behavior",
+        "Comparative Politics",
+        "Political Psychology",
+        "Statistics",
+        "Computational methods"
       ]
     }
   ],
